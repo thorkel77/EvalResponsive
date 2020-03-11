@@ -1,2 +1,2 @@
 # EvalResponsive
-évaluation denys Delaunay sur le devoir de responsive design.
+évaluation denys Delaunay info B2A sur le devoir de responsive design.
